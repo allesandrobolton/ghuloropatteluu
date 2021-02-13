@@ -1,0 +1,4 @@
+baseURL = "https://home-decorationxeeiu.vercel.app"
+languageCode = "en-us"
+title = "Unique Bathroom Decor Art"
+theme = "hugo-theme-minos"
